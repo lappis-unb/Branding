@@ -17,7 +17,7 @@ subtitle: A Jekyll template for project documentation
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: ''
+baseurl: '/Branding'
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -35,10 +35,10 @@ navigation:
   url: ./
   internal: true
 - text: Example Page
-  url: /Branding/example_page/
+  url: /example_page/
   internal: true
 - text: Branding Guidelines
-  url: https://github.com/lappis-unb/Branding
+  url: https://github.com/lappis-unb/
   internal: false
 
 # Repo list
