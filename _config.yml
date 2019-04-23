@@ -37,8 +37,8 @@ navigation:
 - text: Example Page
   url: example_page/
   internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
+- text: Branding Guidelines
+  url: https://github.com/lappis-unb/Branding
   internal: false
 
 # Repo list
