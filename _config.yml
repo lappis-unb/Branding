@@ -44,9 +44,9 @@ navigation:
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: DOCter
-  description: Jekyll template for docs
-  url: https://github.com/cfpb/DOCter
+- name: Branding
+  description: LAPPIS Branding Guidelines
+  url: https://github.com/lappis-unb/Branding
 
 # Style Variables
 brand_color: "#2cb34a"
