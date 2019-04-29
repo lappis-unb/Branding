@@ -6,7 +6,7 @@ title:  "Construção"
 ![construção](./../assets/img/construcao1.png)
 
 #### Raio Círculo de Referência
-R1 = 1
+> R1 = 1
 
 
 
